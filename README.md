@@ -7,4 +7,5 @@
 ------
 ### lesson1:[Node.js简介](https://github.com/xiaomaer/learn_Node.js/blob/master/lesson1/)
 ### lesson2:[Node.js安装](https://github.com/xiaomaer/learn_Node.js/blob/master/lesson2/)
-### lesson3:NPM包管理器的使用
+### lesson3:[NPM包管理器的使用](https://github.com/xiaomaer/learn_Node.js/blob/master/lesson3/)
+### lesson4:[示例:JS文件使用NPM安装的模块（详细步骤）](https://github.com/xiaomaer/learn_Node.js/blob/master/lesson3/)
