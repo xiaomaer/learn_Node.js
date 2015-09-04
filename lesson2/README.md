@@ -10,14 +10,14 @@
 ### 2、安装好Node.js下一步做什么呢？
 > ①从开始菜单找到Node.js文件夹，然后点击该文件夹下的“Node.js command prompt”打开命令行窗口，如下图所示：
 >
-
+![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")  
 > ②在该命令行窗口直接输入以下命令查看Node.js的版本号
 >
-> node -v
+> > node -v
 >
-> 显示Node.js的版本号 
+> > 显示Node.js的版本号 
 >
-> v0.12.7
+> > v0.12.7
 >
 > ③在该命令行窗口直接输入以下命令，Node.js将会切换到命令行交互界面，你可以在这里执行JavaScript代码。如下图所示：
 >
@@ -41,11 +41,11 @@
 > > 然后在命令行界面输入"node helloword.js"命令，执行文件中JavaScript代码，并输出“Hello World”。如下图所示： 
 
 ### 4、注意和问题
-> Node.js V0.6.0版本以后，NPM已经包含在在Node.js安装包中了，因此不再需要单独安装Node.js和NPM了。
+> ①Node.js V0.6.0版本以后，NPM已经包含在在Node.js安装包中了，因此不再需要单独安装Node.js和NPM了。
 >
-> 使用"node xx.js"命令运行JS文件时，注意把路径切换到"xx.js"所在的路径下，如xx.js在"d:\Program Files\nodejs\nodePrj\"文件夹下，但是命令运行窗口默认路径是"d:\Program Files\nodejs",要先通过cd等命令切换到"d:\Program Files\nodejs\nodePrj\"下，在执行命令。
+> ②使用"node xx.js"命令运行JS文件时，注意把路径切换到"xx.js"所在的路径下，如xx.js在"d:\Program Files\nodejs\nodePrj\"文件夹下，但是命令运行窗口默认路径是"d:\Program Files\nodejs",要先通过cd等命令切换到"d:\Program Files\nodejs\nodePrj\"下，在执行命令。
 >
-> Node.js运行的JS文件应该放在哪里？  
+> ③Node.js运行的JS文件应该放在哪里？  
 >
 > > 对于初学者的我，在学习的过程中遇到了这样的问题，记录于此，希望帮助和我一样迷茫的同学。 
 >
