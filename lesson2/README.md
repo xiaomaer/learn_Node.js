@@ -11,6 +11,7 @@
 > ①从开始菜单找到Node.js文件夹，然后点击该文件夹下的“Node.js command prompt”打开命令行窗口，如下图所示：
 >
 ![first](https://github.com/xiaomaer/learn_Node.js/blob/master/lesson2/1.png)
+>
 > ②在该命令行窗口直接输入以下命令查看Node.js的版本号
 >
 > > node -v
@@ -24,6 +25,7 @@
 > node
 > 
 ![second](https://github.com/xiaomaer/learn_Node.js/blob/master/lesson2/2.png)  
+>
 > ④也可以点击“开始菜单”Node.js文件夹下的Node.js打开交互界面，如下图所示： 
 
 ### 3、简单使用
@@ -32,6 +34,7 @@
 > > 在交互界面输入“console.log("Hello World");”，然后按回车键。Node便开始执行该代码，并输出“Hello World”，同时打印出“undefined”。这是因为每条命令都会返回一个值，而console.log没有任何返回，故输出“undefined”。代码如下图所示： 
 >
 ![third](https://github.com/xiaomaer/learn_Node.js/blob/master/lesson2/eg1.png)
+>
 > ②使用"node xx.js"命令执行JavaScript文件 
 >
 > > 首先创建js文件，如文件名为helloword.js，在该文件中输入以下代码： 
