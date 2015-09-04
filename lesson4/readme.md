@@ -18,8 +18,8 @@
 		node staticsever.js
 #### 5、访问public文件夹中的图片
 		在浏览器中输入“http://localhost:8080/1.jpg”或“http://localhost:8080/index.html”来访问文件。结果如下图所示：
-		![img1](https://github.com/xiaomaer/learn_Node.js/blob/master/lesson4/3.png)
-		![img1](https://github.com/xiaomaer/learn_Node.js/blob/master/lesson4/4.png)
+![img1](https://github.com/xiaomaer/learn_Node.js/blob/master/lesson4/3.png)
+![img1](https://github.com/xiaomaer/learn_Node.js/blob/master/lesson4/4.png)
 #### 6、退出交互界面
 		使用Ctrl+C键来退出Node命令行交互界面
 #### 详细代码操作见下图所示：
