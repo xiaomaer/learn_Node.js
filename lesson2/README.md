@@ -27,6 +27,8 @@
 ![second](https://github.com/xiaomaer/learn_Node.js/blob/master/lesson2/2.png)  
 >
 > ④也可以点击“开始菜单”Node.js文件夹下的Node.js打开交互界面，如下图所示： 
+>
+![fifth](https://github.com/xiaomaer/learn_Node.js/blob/master/lesson2/3.png) 
 
 ### 3、简单使用
 > ①执行JavaScript代码
