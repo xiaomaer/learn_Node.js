@@ -9,9 +9,9 @@
 * 从开始菜单找到Node.js文件夹，然后点击该文件夹下的“Node.js command prompt”打开命令行窗口，如下图所示：
 
 * 在该命令行窗口直接输入以下命令查看Node.js的版本号  
-                 node -v
-                显示Node.js的版本号 
-                v0.12.7
+    node -v
+    显示Node.js的版本号 
+    v0.12.7
 * 在该命令行窗口直接输入以下命令，Node.js将会切换到命令行交互界面，你可以在这里执行JavaScript代码。如下图所示：
     node
 
