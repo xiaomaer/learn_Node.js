@@ -11,7 +11,6 @@
 > ①从开始菜单找到Node.js文件夹，然后点击该文件夹下的“Node.js command prompt”打开命令行窗口，如下图所示：
 >
 ![first](https://github.com/xiaomaer/learn_Node.js/blob/master/lesson2/1.png)
-![baidu](http://www.baidu.com/img/bdlogo.gif)  
 > ②在该命令行窗口直接输入以下命令查看Node.js的版本号
 >
 > > node -v
