@@ -1,18 +1,18 @@
 本节将记录我在window7 64bit操作系统上如何安装Node.js v0.12.7？
 
 ### 1、如何在window上安装Node.js v0.12.7？ 
-* 根据自己电脑的配置，在Node.js官网上下载Windows Installer (.msi)文件，[点击这里进入下载网址](https://nodejs.org/en/download/)。
-* 双击下载好的“node-v0.12.7-x64.msi”文件进行安装，出现“finish”界面表示安装完成。
-* 通过以上步骤会将node.exe文件安装到自己指定的路径下，并将该该路径添加到系统的PATH环境变量。默认路径为“C:\Program Files (x86)\nodejs\”，我把它安装在“D:\Program Files\nodejs\”。
+> 根据自己电脑的配置，在Node.js官网上下载Windows Installer (.msi)文件，[点击这里进入下载网址](https://nodejs.org/en/download/)。
+> 双击下载好的“node-v0.12.7-x64.msi”文件进行安装，出现“finish”界面表示安装完成。
+> 通过以上步骤会将node.exe文件安装到自己指定的路径下，并将该该路径添加到系统的PATH环境变量。默认路径为“C:\Program Files (x86)\nodejs\”，我把它安装在“D:\Program Files\nodejs\”。
 
 ### 2、安装好Node.js下一步做什么呢？
-* 从开始菜单找到Node.js文件夹，然后点击该文件夹下的“Node.js command prompt”打开命令行窗口，如下图所示：
+> 从开始菜单找到Node.js文件夹，然后点击该文件夹下的“Node.js command prompt”打开命令行窗口，如下图所示：
 
-* 在该命令行窗口直接输入以下命令查看Node.js的版本号  
-    node -v
-    显示Node.js的版本号 
-    v0.12.7
-* 在该命令行窗口直接输入以下命令，Node.js将会切换到命令行交互界面，你可以在这里执行JavaScript代码。如下图所示：
+> 在该命令行窗口直接输入以下命令查看Node.js的版本号  
+> node -v
+> 显示Node.js的版本号 
+> v0.12.7
+> 在该命令行窗口直接输入以下命令，Node.js将会切换到命令行交互界面，你可以在这里执行JavaScript代码。如下图所示：
     node
 
 * 也可以点击“开始菜单”Node.js文件夹下的Node.js打开交互界面，如下图所示： 
