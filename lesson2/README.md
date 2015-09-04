@@ -6,15 +6,15 @@
 *通过以上步骤会将node.exe文件安装到自己指定的路径下，并将该该路径添加到系统的PATH环境变量。默认路径为“C:\Program Files (x86)\nodejs\”，我把它安装在“D:\Program Files\nodejs\”。
 
 ### 2、安装好Node.js下一步做什么呢？
-①从开始菜单找到Node.js文件夹，然后点击该文件夹下的“Node.js command prompt”打开命令行窗口，如下图所示：\<br>  
+*从开始菜单找到Node.js文件夹，然后点击该文件夹下的“Node.js command prompt”打开命令行窗口，如下图所示：\<br>  
 
-②在该命令行窗口直接输入以下命令查看Node.js的版本号\<br>  
+*在该命令行窗口直接输入以下命令查看Node.js的版本号\<br>  
         node -v
 显示Node.js的版本号\<br>  
         v0.12.7
-③在该命令行窗口直接输入以下命令，Node.js将会切换到命令行交互界面，你可以在这里执行JavaScript代码。如下图所示：\<br>  
+*在该命令行窗口直接输入以下命令，Node.js将会切换到命令行交互界面，你可以在这里执行JavaScript代码。如下图所示：\<br>  
         node
-③也可以点击“开始菜单”Node.js文件夹下的Node.js打开交互界面，如下图所示：\<br>  
+*也可以点击“开始菜单”Node.js文件夹下的Node.js打开交互界面，如下图所示：\<br>  
 
 ### 3、简单使用
 ①执行JavaScript代码\<br>  
