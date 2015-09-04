@@ -10,7 +10,7 @@
 ### 2、安装好Node.js下一步做什么呢？
 > ①从开始菜单找到Node.js文件夹，然后点击该文件夹下的“Node.js command prompt”打开命令行窗口，如下图所示：
 >
-![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")  
+![first](http://github.com/xiaomaer/learn_Node.js/blob/master/lesson2/1.png)  
 > ②在该命令行窗口直接输入以下命令查看Node.js的版本号
 >
 > > node -v
@@ -23,7 +23,7 @@
 >
 > node
 > 
-
+![second](http://github.com/xiaomaer/learn_Node.js/blob/master/lesson2/1.png)  
 > ④也可以点击“开始菜单”Node.js文件夹下的Node.js打开交互界面，如下图所示： 
 
 ### 3、简单使用
@@ -31,7 +31,7 @@
 >
 > > 在交互界面输入“console.log("Hello World");”，然后按回车键。Node便开始执行该代码，并输出“Hello World”，同时打印出“undefined”。这是因为每条命令都会返回一个值，而console.log没有任何返回，故输出“undefined”。代码如下图所示： 
 >
-
+![third](http://github.com/xiaomaer/learn_Node.js/blob/master/lesson2/eg1.png)
 > ②使用"node xx.js"命令执行JavaScript文件 
 >
 > > 首先创建js文件，如文件名为helloword.js，在该文件中输入以下代码： 
@@ -39,7 +39,8 @@
 > > console.log('Hello World!');
 >
 > > 然后在命令行界面输入"node helloword.js"命令，执行文件中JavaScript代码，并输出“Hello World”。如下图所示： 
-
+>
+![forth](http://github.com/xiaomaer/learn_Node.js/blob/master/lesson2/eg2.png)
 ### 4、注意和问题
 > ①Node.js V0.6.0版本以后，NPM已经包含在在Node.js安装包中了，因此不再需要单独安装Node.js和NPM了。
 >
