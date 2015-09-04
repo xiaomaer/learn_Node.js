@@ -1,4 +1,4 @@
-本节将记录我在window7 64bit操作系统上如何安装Node.js v0.12.7？
+    本节将记录我在window7 64bit操作系统上如何安装Node.js v0.12.7？
 
 ### 1、如何在window上安装Node.js v0.12.7？ 
 > ①根据自己电脑的配置，在Node.js官网上下载Windows Installer (.msi)文件，[点击这里进入下载网址](https://nodejs.org/en/download/)。
