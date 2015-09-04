@@ -46,14 +46,14 @@
 >
 > ②使用"node xx.js"命令运行JS文件时，注意把路径切换到"xx.js"所在的路径下，如xx.js在"d:\Program Files\nodejs\nodePrj\"文件夹下，但是命令运行窗口默认路径是"d:\Program Files\nodejs",要先通过cd等命令切换到"d:\Program Files\nodejs\nodePrj\"下，在执行命令。
 >
-> ③Node.js运行的JS文件应该放在哪里？  
+> ③Node.js可以使用cmd控制平台通过node命令运行JS文件或代码、npm命令安装、卸载包等。
+>
+> ④Node.js运行的JS文件应该放在哪里？  
 >
 > > 对于初学者的我，在学习的过程中遇到了这样的问题，记录于此，希望帮助和我一样迷茫的同学。 
 >
 > > 对于该问题，通过查询资料和自己的测试，答案如下：
 >
->> > 对于普通的JS文件，没用使用任何模块（Node.js内置的模块还是NPM提供的模块）,在这种情况下，JS文件可以放在任意位置。
+> > > `JS文件可以放在任意位置。`
 >
-> > > 对于只使用Node.js内置的模块或自定义的模块的JS文件，JS文件也是可以放在任意位置。 
->
-> > >对于使用了NPM提供的模块的JS文件，JS文件位置必须放在Node.js安装路径下面。例如：在我的电脑上，Node.js安装在“D:\Program Files\nodejs"下，因此使用了NPM提供包的JS文件必须放在该目录下，否则在运行JS文件时，会报错（找不到文件使用的模块）。
+> > > `注意：`对于使用了NPM提供的模块的JS文件，JS文件位置必须与NPM安装的模块来自同一祖先目录下（如：父级、父父级等）。例如：NPM把模块安装在“E:\node_modules”下，因此JS文件必须放在E盘目录下（如：“E:\”或“E:\nodePrj”等），否则在运行JS文件时，会报错（cannot find module）。
