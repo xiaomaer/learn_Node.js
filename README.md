@@ -5,6 +5,6 @@
 学习记录如下：
 ------
 ### lesson1:[Node.js简介](https://github.com/xiaomaer/learn_Node.js/blob/master/lesson1/)
-### lesson2:Node.js安装
+### lesson2:[Node.js安装](https://github.com/xiaomaer/learn_Node.js/blob/master/lesson2/)
 ### lesson3:NPM包管理器的使用
 ### lesson4:Node.js的简单使用
