@@ -1,6 +1,6 @@
 ### 本节将使用NPM提供的express模块，创建了一个强大的静态文件服务器。
 		示例：你可以通过浏览器请求访问你放在public文件夹中任何文件，并进行展示，包括HTML、图片等任何东西。详细步骤如下:
-#### 1、安装expressm模块
+#### 1、安装express模块
 ##### 打开cmd命令行界面，使用以下命令安装express模块
 		e:
 		npm install express
