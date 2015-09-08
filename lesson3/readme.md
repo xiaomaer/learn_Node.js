@@ -51,7 +51,7 @@
 ![img](https://github.com/xiaomaer/learn_Node.js/blob/master/lesson3/1.png)
 >
 > > 这告诉你nexpress模块依赖escape、merge、array等模块，并且还指出了安装的版本。如果你现在去查看./node_modules/express/node_modules目录，你会发现这x些模块已经被安装了。
-##### ⑥使用package.json文件定义依赖关系
+#### 6、使用package.json文件定义依赖关系
 > package.json文件包含了应用程序的基本信息。其中“dependencies”部分描述了你想安装模块的名称和版本。当开始编写一个应用程序时，可以在应用程序根目录创建一个package.json文件来定义应用程序的元数据。例如：一个叫MyApp的应用程序依赖sax,nano和request模块，只需要建立这样一个package.json：
 >
     {  
