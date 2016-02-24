@@ -12,5 +12,5 @@
 #### lesson6:[node.js中使用Mongoose模块连接和操作MongoDB数据库](http://y.dobit.top/Detail/178.html)
 #### lesson7:[Node.js中使用mongoskin操作MongoDB数据库](http://y.dobit.top/Detail/194.html)
 #### lesson8:[Node.js中使用连接和操作MySQL数据库](http://y.dobit.top/Detail/195.html)
-#### lesson9:[实例:http://y.dobit.top/Detail/181.html](http://y.dobit.top/Detail/181.html)
+#### lesson9:[实例:socket.io模块的基础使用——创建实时应用程序](http://y.dobit.top/Detail/181.html)
 #### lesson10:[实例:node.js+express+socket.io创建多人在线聊天室](http://y.dobit.top/Detail/182.html)
